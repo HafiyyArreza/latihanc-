@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676445015 source:c:\users\lab-rpl2\music\gabut slur\latihangrade\main.cpp
+	<iostream>
+	<iostream>
+	<Windows.h>
+
